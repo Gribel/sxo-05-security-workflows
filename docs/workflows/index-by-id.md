@@ -23,3 +23,4 @@ This page contains a list of all of the workflows published in the repository so
 | 0010 | Multiple | [Phishing Investigation]({{ site.baseurl }}/workflows/0010-phishing-investigation) |
 | 0010B | Multiple | [Phishing Investigation - Statistics]({{ site.baseurl }}/workflows/0010b-phishing-investigation-statistics) |
 | 0011 | Talos | [SolarWinds Investigation]({{ site.baseurl }}/workflows/0011-solarwinds-investigation) |
+| 0012 | Secure Endpoint (AMP) | [Threat Hunting Events to Threat Response Incidents]({{ site.baseurl }}/workflows/0012-secure-endpoint-sx-events-to-threat-response)
