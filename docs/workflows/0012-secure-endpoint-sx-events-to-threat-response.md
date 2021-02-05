@@ -30,7 +30,7 @@ Note: To ensure the best experience with this workflow, be sure to import the la
 ---
 
 ## Important Notes
-* See [this page]({{ site.baseurl }}/notes) for other important information about SecureX Orchestration.
+* See [this page]({{ site.baseurl }}/notes) for other important information about SecureX orchestration.
 
 ---
 
